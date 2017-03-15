@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ConsumindoREST</string>
+    <string name="title_activity_tela_inicial">Tela Inicial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="btnProcurar">Procurar</string>
+    <string name="title_activity_tela_cadastro">Tela Cadastro</string>
+    <string name="title_activity_tela_busca">Tela Busca</string>
+    <string name="etCodigo">Código</string>
+    <string name="etNome">Nome</string>
+    <string name="etQuantidade">Quantidade</string>
+    <string name="etValorCusto">Valor Custo</string>
+    <string name="btnAlterar">Alterar</string>
+    <string name="sem_conex_o">Sem Conexão</string>
+</resources>
